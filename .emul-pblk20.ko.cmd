@@ -1,0 +1,1 @@
+cmd_/home/jhin/emulator/emul-pblk20.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/jhin/emulator/emul-pblk20.ko /home/jhin/emulator/emul-pblk20.o /home/jhin/emulator/emul-pblk20.mod.o ;  true

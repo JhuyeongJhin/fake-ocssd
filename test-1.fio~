@@ -1,0 +1,8 @@
+[global]
+bs=4k
+size=4m
+filename=/dev/tgt_emuld0
+direct=1
+
+[rand-write]
+rw=randwrite

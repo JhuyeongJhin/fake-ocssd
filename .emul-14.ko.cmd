@@ -1,0 +1,1 @@
+cmd_/home/jhin/emulator/emul-14.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/jhin/emulator/emul-14.ko /home/jhin/emulator/emul-14.o /home/jhin/emulator/emul-14.mod.o ;  true
