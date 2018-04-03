@@ -1,0 +1,10 @@
+  WRITE: io=507904KB, aggrb=1600.0MB/s, minb=102400KB/s, maxb=136827KB/s, mint=232msec, maxt=310msec
+  WRITE: io=507904KB, aggrb=1425.3MB/s, minb=91218KB/s, maxb=118891KB/s, mint=267msec, maxt=348msec
+  WRITE: io=507904KB, aggrb=1278.4MB/s, minb=81814KB/s, maxb=102731KB/s, mint=309msec, maxt=388msec
+  WRITE: io=507904KB, aggrb=1230.8MB/s, minb=78769KB/s, maxb=93090KB/s, mint=341msec, maxt=403msec
+  WRITE: io=507904KB, aggrb=1507.7MB/s, minb=96486KB/s, maxb=118007KB/s, mint=269msec, maxt=329msec
+  WRITE: io=507904KB, aggrb=1421.3MB/s, minb=90957KB/s, maxb=140460KB/s, mint=226msec, maxt=349msec
+  WRITE: io=507904KB, aggrb=1158.9MB/s, minb=74168KB/s, maxb=256000KB/s, mint=124msec, maxt=428msec
+  WRITE: io=507904KB, aggrb=1107.2MB/s, minb=70857KB/s, maxb=89926KB/s, mint=353msec, maxt=448msec
+  WRITE: io=507904KB, aggrb=1071.3MB/s, minb=68561KB/s, maxb=126976KB/s, mint=250msec, maxt=463msec
+  WRITE: io=507904KB, aggrb=1512.2MB/s, minb=96780KB/s, maxb=122563KB/s, mint=259msec, maxt=328msec

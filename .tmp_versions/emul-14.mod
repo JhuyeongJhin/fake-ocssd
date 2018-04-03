@@ -1,3 +1,3 @@
-/home/jhin/emulator/emul-14.ko
-/home/jhin/emulator/emul-14.o
+/home/eslab/fake-ocssd/emul-14.ko
+/home/eslab/fake-ocssd/emul-14.o
 

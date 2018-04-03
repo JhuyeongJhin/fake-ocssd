@@ -427,13 +427,13 @@ static struct blk_mq_ops emul_mq_ops = {
 
 static int emul_id(struct nvm_dev *dev, struct nvm_id *id){
 	struct nvm_id_group *grp;
-	
+	/*
 	id->nr_rwb = nr_rwb;
 	id->user_rb_option = user_rb_option;
 	id->gc_rb_option = gc_rb_option;
 	id->wt_pin = wt_pin;
 	id->wt_nice = wt_nice;
-	
+	*/
 	id->ver_id = 0x1;
 	id->vmnt = 0;
 	id->cap = cpu_to_le32(0x3);

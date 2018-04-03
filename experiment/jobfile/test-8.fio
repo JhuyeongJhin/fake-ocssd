@@ -1,9 +1,9 @@
 [global]
 bs=4k
-size=25m
+size=62m
 filename=/dev/tgt_emuld0
 direct=1
-numjobs=4
+numjobs=8
 
 [rand-write]
 rw=randwrite
